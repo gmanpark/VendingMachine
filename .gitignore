@@ -12,3 +12,9 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+
+# Node.js
+node_modules/
+
+# WebStorm IDE
+.idea
